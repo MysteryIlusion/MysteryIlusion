@@ -5,7 +5,7 @@
 
 ---
 - 🔭 I’m currently working on projects that I can showcase.
-- 🌱 I’m currently learning Python and some of its packages and libraries.
+- 🌱 I’m currently learning Python and some of its libraries and packages.
 - 👯 I’m looking to collaborate on anything related to Data Science and Artificial Intelligence.
 - 🤔 I’m looking for help with everything! 
 - 💬 Ask me about anything!
